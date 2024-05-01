@@ -1,7 +1,0 @@
-/home/linos/Client-Server-Model/build/CMakeFiles/Client.dir
-/home/linos/Client-Server-Model/build/CMakeFiles/Server.dir
-/home/linos/Client-Server-Model/build/CMakeFiles/Subscriber.dir
-/home/linos/Client-Server-Model/build/CMakeFiles/package.dir
-/home/linos/Client-Server-Model/build/CMakeFiles/package_source.dir
-/home/linos/Client-Server-Model/build/CMakeFiles/edit_cache.dir
-/home/linos/Client-Server-Model/build/CMakeFiles/rebuild_cache.dir
