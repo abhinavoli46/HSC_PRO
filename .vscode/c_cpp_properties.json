@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/local/include/boost_util/**",
+                "/usr/local/include/opencv4/**",
+                "/usr/local/include/msgpack_util/include/**",
+                "/home/linos/Client-Server-Model/include/**",
+                "/usr/local/include/*"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
