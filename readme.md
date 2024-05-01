@@ -20,4 +20,4 @@ Fall Detection System Using OpenCV and Alert Messaging Using ZeroMQ.
 
 + Tools Used:
   > Visual Studio Code
-  > CMake
+  > CMake 
